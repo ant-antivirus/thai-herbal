@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:200,400');
+
+@font-face {
+	font-family: 'icomoon';
+	src:  url('../fonts/icomoon/icomoon.eot?jvou5o');
+	src:  url('../fonts/icomoon/icomoon.eot?jvou5o#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon/icomoon.ttf?jvou5o') format('truetype'),
+		url('../fonts/icomoon/icomoon.woff?jvou5o') format('woff'),
+		url('../fonts/icomoon/icomoon.svg?jvou5o#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'DBHelvethaicaX';
+	src: url('../fonts/DBHelvethaicaX/db_helvethaica_x_li_v3.2-webfont.eot?#iefix') format('embedded-opentype'),  
+		url('../fonts/DBHelvethaicaX/db_helvethaica_x_li_v3.2-webfont.otf')  format('opentype'),
+		url('../fonts/DBHelvethaicaX/db_helvethaica_x_li_v3.2-webfont.woff') format('woff'), 
+		url('../fonts/DBHelvethaicaX/db_helvethaica_x_li_v3.2-webfont.ttf')  format('truetype'), 
+		url('../fonts/DBHelvethaicaX/db_helvethaica_x_li_v3.2-webfont.svg#LegatoPro') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
